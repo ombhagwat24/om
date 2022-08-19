@@ -1,6 +1,6 @@
 # om Bhagwat
 
-## hey there
+### hey there
 ```markdown
 Enthusiastic Data Scientist, eager to contribute to team success through hard work, attention to detail and good organizational skills. 
 Proficient understanding of web scrapping, Data pre-processing, Data visualizations and machine learning techniques to solve business problem. 
