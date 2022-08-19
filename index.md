@@ -22,7 +22,8 @@ deployed solution using Streamlit
 
 For more details see [link](https://www.linkedin.com/in/omkar-bhagwat-64b103230).
 
-### Projects
+### PROJECTS
+
 [**Shipment Prediction**](https://github.com/ombhagwat24/Shipment_Prediction)<br>
 Model that predict the shipment arrival, so that the company knows which products are going to arrive late.
 
@@ -32,4 +33,4 @@ Sentiments analysis of customer reviews whether it’s positive, neutral or nega
 [**Bankruptcy Prevention**](https://github.com/ombhagwat24/Bankruptcy-Prevention)<br>
 Predict whether bank will go bankrupt or not based on 6 features in given dataset - binary classification
 
-### [contact me](https://flowcv.me/om-bhagwat) 
+### [CONTACT ME](https://flowcv.me/om-bhagwat) 
