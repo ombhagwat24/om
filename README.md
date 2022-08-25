@@ -1,4 +1,3 @@
-# OM BHAGWAT
 
 ### hey there
 ```markdown
